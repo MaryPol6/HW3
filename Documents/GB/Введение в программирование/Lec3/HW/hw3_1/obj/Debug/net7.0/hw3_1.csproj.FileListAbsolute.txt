@@ -1,0 +1,15 @@
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec3/HW/hw3_1/bin/Debug/net7.0/hw3_1
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec3/HW/hw3_1/bin/Debug/net7.0/hw3_1.deps.json
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec3/HW/hw3_1/bin/Debug/net7.0/hw3_1.runtimeconfig.json
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec3/HW/hw3_1/bin/Debug/net7.0/hw3_1.dll
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec3/HW/hw3_1/bin/Debug/net7.0/hw3_1.pdb
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec3/HW/hw3_1/obj/Debug/net7.0/hw3_1.csproj.AssemblyReference.cache
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec3/HW/hw3_1/obj/Debug/net7.0/hw3_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec3/HW/hw3_1/obj/Debug/net7.0/hw3_1.AssemblyInfoInputs.cache
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec3/HW/hw3_1/obj/Debug/net7.0/hw3_1.AssemblyInfo.cs
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec3/HW/hw3_1/obj/Debug/net7.0/hw3_1.csproj.CoreCompileInputs.cache
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec3/HW/hw3_1/obj/Debug/net7.0/hw3_1.dll
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec3/HW/hw3_1/obj/Debug/net7.0/refint/hw3_1.dll
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec3/HW/hw3_1/obj/Debug/net7.0/hw3_1.pdb
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec3/HW/hw3_1/obj/Debug/net7.0/hw3_1.genruntimeconfig.cache
+/Users/mariapolynceva/Documents/GB/Введение в программирование/Lec3/HW/hw3_1/obj/Debug/net7.0/ref/hw3_1.dll
